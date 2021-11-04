@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(68, 199, 177);
+    display: flex;
+}
+#ifElse{
+    margin: 20px 30px;
+    line-height: 35px;
+}
+#cycles{
+    margin: 20px 30px;
+    line-height: 30px;       
+}
+#functionTask{
+    margin: 20px 30px;
+}
+.picture{
+    display: flex;   
+    justify-content: space-between;
+    padding: 50px 100px;
+}
+
+.img {
+    max-height: 150px;
+    max-width: 150px;
+}
